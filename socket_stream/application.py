@@ -2,6 +2,9 @@
 Demo Flask application to test the operation of Flask with socket.io
 Aim is to create a webpage that is constantly updated with random numbers from a background python process.
 30th May 2014
+
+
+https://www.shanelynn.ie/asynchronous-updates-to-a-webpage-with-flask-and-socket-io/
 """
 
 # Start with a basic flask app webpage.
